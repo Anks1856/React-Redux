@@ -1,5 +1,6 @@
 const redux = require('redux')
 const createStore = redux.createStore
+
 // Action
 
 const BUY_CAKE = 'BUY_CAKE'
